@@ -1,16 +1,4 @@
-/*
- * This is a "solarized" style for the Kod editor (kodapp.com). 
- * Copy it to ~/.kod/mystyle.css then tell Kod where to find it
- * by setting a configuration key:
- *
- *  $ defaults write se.hunch.kod style/url ~/.kod/mystyle.css
- *
- * You might need to restart Kod for changes to take effect or 
- * select View->Reload style from the menu. Then, simply open
- * your ~/.kod/mystyle.css in Kod -- when edited and saved Kod will
- * automatically reload the style, thus you see the effect of your 
- * alterations.
- */
+/* see README */
 
 /* solarized light */
 
