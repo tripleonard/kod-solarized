@@ -22,7 +22,7 @@
 Screen shots.
 ------------
 CSS Dark
-![css dark](http://github.com/tripleonard/kod-solarized/tree/master/img/kod-css-dark.png)
+![css dark](/img/kod-css-dark.png)
 
 CSS Light
 
