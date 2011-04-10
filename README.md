@@ -18,11 +18,11 @@
   your ~/.kod/mystyle.css in Kod -- when edited and saved Kod will
   automatically reload the style, thus you see the effect of your 
   alterations.
-===
+  
 Screen shots.
 ------------
 CSS Dark
-![css dark](https://github.com/tripleonard/kod-solarized/blob/master/img/kod-css-dark.png)\
+[![css dark](https://github.com/tripleonard/kod-solarized/blob/master/img/kod-css-dark.png)]
 
 CSS Light
 
