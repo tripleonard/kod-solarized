@@ -21,14 +21,17 @@
   
 Screen shots.
 ------------
-CSS Dark
-[![css dark](https://github.com/tripleonard/kod-solarized/blob/master/img/kod-css-dark.png)]
+CSS Dark  
+![CSS dark](https://github.com/jwandborg/kod-solarized/raw/master/img/kod-css-dark.png)
 
-CSS Light
+CSS Light  
+![CSS light](https://github.com/jwandborg/kod-solarized/raw/master/img/kod-css-light.png)
 
-SQL Dark
+SQL Dark  
+![SQL dark](https://github.com/jwandborg/kod-solarized/raw/master/img/kod-sql-dark.png)
 
-SQL Light
+SQL Light  
+![SQL light](https://github.com/jwandborg/kod-solarized/raw/master/img/kod-sql-light.png)
 
 *Colors used:
     SOLARIZED HEX     
