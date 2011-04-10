@@ -20,15 +20,20 @@
   alterations.
   
 Screen shots.
-------------
+===
 CSS Dark
+---
 ![css dark](https://github.com/tripleonard/kod-solarized/raw/master/img/kod-css-dark.png)
 
 CSS Light
-
+---
+![css light](https://github.com/tripleonard/kod-solarized/raw/master/img/kod-css-light.png)
 SQL Dark
-
+---
+![sql dark](https://github.com/tripleonard/kod-solarized/raw/master/img/kod-sql-dark.png)
 SQL Light
+---
+![sql light](https://github.com/tripleonard/kod-solarized/raw/master/img/kod-css-light.png)
 
 *Colors used:
     SOLARIZED HEX     
