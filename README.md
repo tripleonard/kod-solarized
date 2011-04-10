@@ -1,6 +1,6 @@
   This is a "solarized" style for the Kod editor (http://kodapp.com). 
   The palette was developed by Ethan Schoonover 
-  (http://ethanschoonover.com/solarized)*. The 'body'font has 
+  (http://ethanschoonover.com/solarized)*. The 'body' font has 
   also been altered from Kod default.
   
   Currently there is one .css file with the light commented out.
@@ -18,6 +18,17 @@
   your ~/.kod/mystyle.css in Kod -- when edited and saved Kod will
   automatically reload the style, thus you see the effect of your 
   alterations.
+===
+Screen shots.
+------------
+CSS Dark
+![css dark](https://github.com/tripleonard/kod-solarized/img/kod-css-dark.png)\
+
+CSS Light
+
+SQL Dark
+
+SQL Light
 
 *Colors used:
     SOLARIZED HEX     
