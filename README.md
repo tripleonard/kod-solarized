@@ -33,7 +33,7 @@ SQL Dark
 ![sql dark](https://github.com/tripleonard/kod-solarized/raw/master/img/kod-sql-dark.png)
 SQL Light
 ---
-![sql light](https://github.com/tripleonard/kod-solarized/raw/master/img/kod-css-light.png)
+![sql light](https://github.com/tripleonard/kod-solarized/raw/master/img/kod-sql-light.png)
 
 *Colors used:
     SOLARIZED HEX     
