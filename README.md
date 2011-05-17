@@ -1,34 +1,35 @@
-  Solarized style for the Kod editor
-  ==================================
+Solarized style for the Kod editor
+==================================
   
-  Developed by [Trip Leonard](http://trip.invisibledog.net)
+Developed by [Trip Leonard](http://trip.invisibledog.net)
   
-  This is a "solarized" style for the Kod editor (http://kodapp.com). 
-  The palette was developed by Ethan Schoonover 
-  (http://ethanschoonover.com/solarized)*. The 'body' font has 
-  also been altered from Kod default.
+This is a "solarized" style for the Kod editor (http://kodapp.com). 
+The palette was developed by Ethan Schoonover 
+(http://ethanschoonover.com/solarized)*. The 'body' font has 
+also been altered from Kod default.
  
-  Installation
-  ============
+Installation
+============
   
-  Copy the file to ~/.kod/mystyle_solarized.css then tell Kod where to find it
-  by setting a configuration key:
+Copy the file to ~/.kod/mystyle_solarized.css then tell Kod where to find it
+by setting a configuration key:
  
-   $ defaults write se.hunch.kod style/url ~/.kod/mystyle_solarized.css
- 
-  You might need to restart Kod for changes to take effect or 
-  select View->Reload style from the menu. Then, simply open
-  your ~/.kod/mystyle.css in Kod -- when edited and saved Kod will
-  automatically reload the style, thus you see the effect of your 
-  alterations.
+$ defaults write se.hunch.kod style/url ~/.kod/mystyle_solarized.css
+
+You might need to restart Kod for changes to take effect or 
+select View->Reload style from the menu. Then, simply open
+your ~/.kod/mystyle.css in Kod -- when edited and saved Kod will
+automatically reload the style, thus you see the effect of your 
+alterations.
+
+Usage
+=====
+
+Currently there is one .css file with the light commented out.
+When you want to switch just comment out the dark, 
+uncomment the light and save, Kod auto reloads when 
+it notices that the file you just saved is the Kod CSS file.  
   
-  Usage
-  =====
-  
-  Currently there is one .css file with the light commented out.
-  When you want to switch just comment out the dark, 
-  uncomment the light and save, Kod auto reloads when 
-  it notices that the file you just saved is the Kod CSS file.  
 Screen shots.
 ===
 CSS Dark
