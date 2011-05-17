@@ -5,9 +5,7 @@ Developed by [Trip Leonard](http://trip.invisibledog.net)
   
 This is a "solarized" style for the Kod editor (http://kodapp.com). 
 The palette was developed by Ethan Schoonover 
-(http://ethanschoonover.com/solarized)*. The 'body' font has 
-also been altered from Kod default.
- 
+(http://ethanschoonover.com/solarized)*.
 Installation
 ============
   
@@ -30,7 +28,7 @@ When you want to switch just comment out the dark,
 uncomment the light and save, Kod auto reloads when 
 it notices that the file you just saved is the Kod CSS file.  
   
-Screen shots.
+Screen shots
 ===
 CSS Dark
 ---
