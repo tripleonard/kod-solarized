@@ -14,7 +14,7 @@ Installation
 Copy the file to ~/.kod/mystyle_solarized.css then tell Kod where to find it
 by setting a configuration key:
  
-$ defaults write se.hunch.kod style/url ~/.kod/mystyle_solarized.css
+    $ defaults write se.hunch.kod style/url ~/.kod/mystyle_solarized.css
 
 You might need to restart Kod for changes to take effect or 
 select View->Reload style from the menu. Then, simply open
