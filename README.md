@@ -1,13 +1,16 @@
+  Solarized style for the Kod editor
+  ==================================
+  
+  Developed by [Trip Leonard](http://trip.invisibledog.net)
+  
   This is a "solarized" style for the Kod editor (http://kodapp.com). 
   The palette was developed by Ethan Schoonover 
   (http://ethanschoonover.com/solarized)*. The 'body' font has 
   also been altered from Kod default.
-  
-  Currently there is one .css file with the light commented out.
-  When you want to switch just comment out the dark, 
-  uncomment the light and save, Kod auto reloads when 
-  it notices that the file you just saved is the Kod CSS file. 
  
+  Installation
+  ============
+  
   Copy the file to ~/.kod/mystyle_solarized.css then tell Kod where to find it
   by setting a configuration key:
  
@@ -19,6 +22,13 @@
   automatically reload the style, thus you see the effect of your 
   alterations.
   
+  Usage
+  =====
+  
+  Currently there is one .css file with the light commented out.
+  When you want to switch just comment out the dark, 
+  uncomment the light and save, Kod auto reloads when 
+  it notices that the file you just saved is the Kod CSS file.  
 Screen shots.
 ===
 CSS Dark
