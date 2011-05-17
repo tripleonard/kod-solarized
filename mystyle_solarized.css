@@ -3,9 +3,9 @@
 /* solarized light */
 
 /*body {
+  font-family: "M+ 1m", monospace;
   background-color:#fdf6e3;
   color: #93a1a1;
-	font: 11px "Lucida Grande", Monaco;
 }
 
 caret { color: #d33682; }
@@ -21,9 +21,9 @@ metaruler {
  /*solarized dark */
  
 body {
+  font-family: "M+ 1m", monospace;
   background-color:#002b36;
   color: #93a1a1;
-	font: 11px "Lucida Grande", Monaco;
 }
 
 caret { color: #d33682; }
