@@ -44,22 +44,109 @@ SQL Light
 ---
 ![sql light](https://github.com/tripleonard/kod-solarized/raw/master/img/kod-sql-light.png)
 
-*Colors used:
-    SOLARIZED HEX     
-    --------- ------- 
-    base03    #002b36  8/4 brblack  
-    base02    #073642  0/4 black    
-    base01    #586e75 10/7 brgreen  
-    base00    #657b83 11/7 bryellow 
-    base0     #839496 12/6 brblue   
-    base1     #93a1a1 14/4 brcyan   
-    base2     #eee8d5  7/7 white
-    base3     #fdf6e3 15/7 brwhite
-    yellow    #b58900  3/3 yellow 
-    orange    #cb4b16  9/3 brred
-    red       #d30102  1/1 red
-    magenta   #d33682  5/5 magenta
-    violet    #6c71c4 13/5 brmagenta
-    blue      #268bd2  4/4 blue
-    cyan      #2aa198  6/6 cyan
-    green     #859900  2/2 green
+Colors used:
+---
+<table>
+  <tr>
+    <td>SOLARIZED</td>
+    <td>HEX</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>base03</td>
+    <td>#002b36</td>
+    <td>8/4</td>
+    <td>brblack</td>
+  </tr>  
+  <tr>
+    <td>base02</td>
+    <td>#073642</td>
+    <td>0/4</td>
+    <td>black</td>
+  </tr>    
+  <tr>
+    <td>base01</td>
+    <td>#586e75</td>
+    <td>10/7</td>
+    <td>brgreen</td>
+  </tr>  
+  <tr>
+    <td>base00</td>
+    <td>#657b83</td>
+    <td>11/7</td>
+    <td>bryellow</td>
+  </tr> 
+  <tr>
+    <td>base0</td>
+    <td>#839496</td>
+    <td>12/6</td>
+    <td>brblue</td>
+  </tr>   
+  <tr>
+    <td>base1</td>
+    <td>#93a1a1</td>
+    <td>14/4</td>
+    <td>brcyan</td>
+  </tr>   
+  <tr>
+    <td>base2</td>
+    <td>#eee8d5</td>
+    <td>7/7</td>
+    <td>white</td>
+  </tr>
+  <tr>
+    <td>base3</td>
+    <td>#fdf6e3</td>
+    <td>15/7</td>
+    <td>brwhite</td>
+  </tr>
+  <tr>
+    <td>yellow</td>
+    <td>#b58900</td>
+    <td>3/3</td>
+    <td>yellow</td>
+  </tr> 
+  <tr>
+    <td>orange</td>
+    <td>#cb4b16</td>
+    <td>9/3</td>
+    <td>brred</td>
+  </tr>
+  <tr>
+    <td>red</td>
+    <td>#d30102</td>
+    <td>1/1</td>
+    <td>red</td>
+  </tr>
+  <tr>
+    <td>magenta</td>
+    <td>#d33682</td>
+    <td>5/5</td>
+    <td>magenta</td>
+  </tr>
+  <tr>
+    <td>violet</td>
+    <td>#6c71c4</td>
+    <td>13/5</td>
+    <td>brmagenta</td>
+  </tr>
+  <tr>
+    <td>blue</td>
+    <td>#268bd2</td>
+    <td>4/4</td>
+    <td>blue</td>
+  </tr>
+  <tr>
+    <td>cyan</td>
+    <td>#2aa198</td>
+    <td>6/6</td>
+    <td>cyan</td>
+  </tr>
+  <tr>
+    <td>green</td>
+    <td>#859900</td>
+    <td>2/2</td>
+    <td>green</td>
+  </tr>
+</table>
