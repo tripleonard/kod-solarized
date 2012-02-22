@@ -14,7 +14,7 @@ by setting a configuration key:
  
     $ defaults write se.hunch.kod style/url ~/.kod/mystyle_solarized.css
 
-Or run the provided bash script `setup` with
+Or run the provided bash script `setup` within the git directory
     
     $ ./setup
 
