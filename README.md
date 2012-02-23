@@ -14,9 +14,13 @@ by setting a configuration key:
  
     $ defaults write se.hunch.kod style/url ~/.kod/mystyle_solarized.css
 
+Or run the provided bash script `setup` within the git directory
+    
+    $ ./setup
+
 You might need to restart Kod for changes to take effect or 
-select View->Reload style from the menu. Then, simply open
-your ~/.kod/mystyle.css in Kod -- when edited and saved Kod will
+select View->Reload style from the menu. Tho, `setup` should kill Kod.app.
+Then, simply open your ~/.kod/mystyle.css in Kod -- when edited and saved Kod will
 automatically reload the style, thus you see the effect of your 
 alterations.
 
