@@ -20,7 +20,7 @@ Or run the provided bash script `setup` within the git directory
 
 You might need to restart Kod for changes to take effect or 
 select View->Reload style from the menu. Tho, `setup` should kill Kod.app.
-Then, simply open your `~/.kod/mystyle.css` in Kod -- when edited and saved Kod will
+Then, simply open your `~/.kod/mystyle.css` in Kod(it is saved as `~/.kod/solarized.css` by the setup script) -- when edited and saved Kod will
 automatically reload the style, thus you see the effect of your 
 alterations.
 
